@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 📫 How to reach me **asjer.contact@gmail.com**
+- 📫 How to reach me **asjer.bereket@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
