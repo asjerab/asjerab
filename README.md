@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asjer Bereket</h1>
-<h3 align="center">18-åring fra Oslo med lidenskap for front-end utvikling.</h3>
+<h1 align="left">Hi 👋, I'm Asjer Bereket</h1>
+<h3 align="left">18-åring fra Oslo med lidenskap for front-end utvikling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asjerab&label=Profile%20views&color=0e75b6&style=flat" alt="asjerab" /> </p>
 
@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asjerab&show_icons=true&locale=en" alt="asjerab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjerab&" alt="asjerab" /></p>
