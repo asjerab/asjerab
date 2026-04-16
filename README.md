@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asjerab&label=Profile%20views&color=0e75b6&style=flat" alt="asjerab" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
-
 - 📫 How to reach me **asjer.bereket@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
